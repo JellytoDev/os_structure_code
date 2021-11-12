@@ -1,0 +1,4 @@
+﻿  operation_test1.c
+C:\Users\wjdwh\OneDrive\바탕 화면\코드 테스트\operation_test1\operation_test1\operation_test1.c(6,58): warning C4273: 'GetLocalTime': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\sysinfoapi.h(118,1): message : 'GetLocalTime'의 이전 정의를 참조하십시오.
+  operation_test1.vcxproj -> C:\Users\wjdwh\OneDrive\바탕 화면\코드 테스트\operation_test1\Debug\operation_test1.exe
